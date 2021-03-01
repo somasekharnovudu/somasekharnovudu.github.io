@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9031c674.chunk.css",
-    "main.js": "/static/js/main.c89436b2.chunk.js",
-    "main.js.map": "/static/js/main.c89436b2.chunk.js.map",
+    "main.css": "/static/css/main.a668bb69.chunk.css",
+    "main.js": "/static/js/main.d4c92c14.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.6bdb1fc5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6bdb1fc5.js.map",
     "static/js/2.108951f5.chunk.js": "/static/js/2.108951f5.chunk.js",
-    "static/js/2.108951f5.chunk.js.map": "/static/js/2.108951f5.chunk.js.map",
     "static/js/3.f5366b49.chunk.js": "/static/js/3.f5366b49.chunk.js",
-    "static/js/3.f5366b49.chunk.js.map": "/static/js/3.f5366b49.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9031c674.chunk.css.map": "/static/css/main.9031c674.chunk.css.map",
     "static/js/2.108951f5.chunk.js.LICENSE.txt": "/static/js/2.108951f5.chunk.js.LICENSE.txt",
-    "static/media/melogo.4703ee34.png": "/static/media/melogo.4703ee34.png"
+    "static/media/melogo.fd396c74.png": "/static/media/melogo.fd396c74.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6bdb1fc5.js",
     "static/js/2.108951f5.chunk.js",
-    "static/css/main.9031c674.chunk.css",
-    "static/js/main.c89436b2.chunk.js"
+    "static/css/main.a668bb69.chunk.css",
+    "static/js/main.d4c92c14.chunk.js"
   ]
 }
